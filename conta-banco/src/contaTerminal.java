@@ -17,7 +17,8 @@ public class contaTerminal {
         
         
         //imprimindo os dados obtidos pelo usuario
-        System.out.println("minha agencia: " + agencia + " " + usuario);
+        System.out.println("minha agencia: " + agencia);
+        System.out.println("numero de usuario " + usuario);
         System.out.println("meu nome é " + nome);
         
         System.out.println("sua conta foi criada");
